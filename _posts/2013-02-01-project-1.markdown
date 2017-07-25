@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 1
+date: 2013-02-01
+img: memjet.png
+alt: image-alt
+project-date: February 2013
+client: Memjet
+category: MEMS Development
+description: Part of the team that developed Memjet’s revolutionary inkjet technology. Principal Investigator driving a second generation MEMS Process Development Project from proof of concept through to pilot integration with CMOS wafers. Image courtesy of <a href="https://www.memjet.com/">Memjet</a>.
+---
