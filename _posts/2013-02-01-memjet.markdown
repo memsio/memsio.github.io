@@ -8,5 +8,5 @@ project-date: February 2013
 client: Memjet
 client-url: http://www.memjet.com
 category: MEMS Development
-description: Part of the team that developed Memjet’s revolutionary inkjet technology. Principal Investigator driving the second generation MEMS Process Development <br> <br> Image credit: Memjet
+description: Part of the team that developed Memjet’s revolutionary inkjet technology. Principal Investigator driving the second generation MEMS Process Development <br> <br> Image credit Memjet
 ---
