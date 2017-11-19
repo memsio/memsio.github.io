@@ -9,5 +9,4 @@ client: Xaar plc
 client-url: http://www.xaar.com
 category: MEMS Development
 description: Part of the team that developed Xaar's Thin Film Piezo Silicon MEMS technology. <br> Image credit <a href="https://www.xaar.com/">Xaar plc</a>
-
 ---
