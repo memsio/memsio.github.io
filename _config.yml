@@ -8,10 +8,9 @@ skills: "Concept Development - Technology Selection - Foundry Management"
 meta_author: MEMS I/O
 
 # Google webmaster tools
-google_verify:
-
+# google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
+# bing_verify:
 
 # Contact form:
 # - static : pass through formspree.io to validate email sending
