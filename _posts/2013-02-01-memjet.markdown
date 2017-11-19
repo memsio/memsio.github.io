@@ -8,5 +8,5 @@ project-date: 2013
 client: Memjet
 client-url: http://www.memjet.com
 category: MEMS Development
-description: Principal Investigator driving the second generation MEMS Process Development. Memjet’s revolutionary inkjet technology packs an impressive 70,400 nozzles per printhead, enabled by the optimised CMOS + MEMS structure. <br> <br> Image credit Memjet
+description: Principal Investigator driving the second generation MEMS Process Development. Memjet’s revolutionary inkjet technology is enabled by the optimised CMOS + MEMS structure, packing an impressive 70,400 nozzles per printhead. <br> <br> Image credit Memjet
 ---
