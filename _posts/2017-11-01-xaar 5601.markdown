@@ -3,7 +3,6 @@ layout: default
 modal-id: 3
 date: 2017-11-01
 img: xaar_5601.png
-img: vaxxas_nanopatch.png
 alt: image-alt
 project-date: 2017
 client: Xaar plc
