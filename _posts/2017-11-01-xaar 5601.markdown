@@ -7,6 +7,5 @@ alt: image-alt
 project-date: 2017
 client: Xaar plc
 client-url: http://www.xaar.com
-category: MEMS Development
 description: Principal Engineer (MEMS) and part of the team that developed Xaar's Thin Film Piezo Silicon MEMS technology. <br> <br> Image credit Xaar plc, Digital Print Conference, Barcelona 2017
 ---
